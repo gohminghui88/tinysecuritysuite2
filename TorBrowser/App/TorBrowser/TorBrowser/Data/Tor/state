@@ -1,0 +1,42 @@
+# Tor state file last generated on 2019-05-22 01:25:46 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard alphagremlin 0FF9F882501FB1D610522DF6AAD6E75C95F8F2B8 DirCache
+EntryGuardDownSince 2019-05-19 22:35:05 2019-05-19 22:35:05
+EntryGuardUnlistedSince 2019-05-19 22:35:05
+EntryGuardAddedBy 0FF9F882501FB1D610522DF6AAD6E75C95F8F2B8 0.2.7.6 2019-05-11 18:15:36
+EntryGuardPathBias 46.000000 45.000000 45.000000 0.000000 0.000000 1.000000
+EntryGuardPathUseBias 8.000000 8.000000
+EntryGuard TorOrDie4privacyNET 43028D0071DE055180DAA82DE200B42FD2131C23 DirCache
+EntryGuardDownSince 2019-05-19 22:35:06 2019-05-19 22:35:06
+EntryGuardAddedBy 43028D0071DE055180DAA82DE200B42FD2131C23 0.2.7.6 2019-05-14 04:41:46
+EntryGuard molorelay 72430BB268B1E256005418B20FDD534AA2A73D62 DirCache
+EntryGuardDownSince 2019-05-19 22:35:05 2019-05-19 22:35:05
+EntryGuardAddedBy 72430BB268B1E256005418B20FDD534AA2A73D62 0.2.7.6 2019-05-10 06:50:54
+TorVersion Tor 0.2.7.6 (git-7a489a6389110120)
+LastWritten 2019-05-21 17:25:46
+TotalBuildTimes 45
+CircuitBuildTimeBin 1025 7
+CircuitBuildTimeBin 1075 2
+CircuitBuildTimeBin 1125 4
+CircuitBuildTimeBin 1175 2
+CircuitBuildTimeBin 1225 2
+CircuitBuildTimeBin 1275 2
+CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1475 1
+CircuitBuildTimeBin 1525 2
+CircuitBuildTimeBin 1575 1
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1675 1
+CircuitBuildTimeBin 1725 3
+CircuitBuildTimeBin 1775 3
+CircuitBuildTimeBin 2025 2
+CircuitBuildTimeBin 2075 2
+CircuitBuildTimeBin 2125 1
+CircuitBuildTimeBin 2175 1
+CircuitBuildTimeBin 2225 2
+CircuitBuildTimeBin 2875 1
+CircuitBuildTimeBin 3025 1
+CircuitBuildTimeBin 11075 1
